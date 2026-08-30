@@ -1,0 +1,6 @@
+filterpy
+numpy
+opencv-python
+pandas
+supervision>=0.30,<0.31
+ultralytics
