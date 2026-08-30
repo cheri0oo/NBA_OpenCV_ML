@@ -1,0 +1,26 @@
+{
+  "default": {
+    "team_seed_map": {},
+    "mini_map": {
+      "source_points_normalized": true,
+      "source_points": [[0.03, 0.24], [0.97, 0.24], [0.98, 0.96], [0.02, 0.96]],
+      "court_points": [[0.0, 0.0], [94.0, 0.0], [94.0, 50.0], [0.0, 50.0]],
+      "position": [14, 14],
+      "map_width": 320,
+      "alpha": 0.9,
+      "show_track_ids": false
+    }
+  },
+  "video_3": {
+    "team_seed_map": {"6": 2, "8": 2},
+    "mini_map": {
+      "source_points_normalized": true,
+      "source_points": [[0.03, 0.24], [0.97, 0.24], [0.98, 0.96], [0.02, 0.96]],
+      "court_points": [[0.0, 0.0], [94.0, 0.0], [94.0, 50.0], [0.0, 50.0]],
+      "position": [14, 14],
+      "map_width": 320,
+      "alpha": 0.9,
+      "show_track_ids": false
+    }
+  }
+}
